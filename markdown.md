@@ -4,10 +4,10 @@
   * 순서없는 목록
 1. 코드
 1. 코드블럭
-  '''java
+  ~~~
   public class BootSpringBootApplication {
     public static void main(string[] args) {
       System.out.println("Hello, Honeymon")
     }
   }
-  '''
+  ~~~
